@@ -1,18 +1,66 @@
 {
-  "name": "@utilcode/simple-template-advanced",
-  "version": "1.0.0",
-  "description": "",
+  "name": "@npmtuanmap2024/facere-facilis-blanditiis",
+  "version": "v1.0.0",
+  "description": "Extensibility template for generating an Adobe Asset Compute action",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "engines": {
+    "node": ">=18"
   },
-  "author": "",
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
+  "keywords": [
+    "yeoman",
+    "generator",
+    "codegen",
+    "aio",
+    "adobeio",
+    "app",
+    "templates",
+    "ecosystem:aio-app-builder-template"
+  ],
+  "author": "tuan149",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "@types/jest": "^25.1.0",
+    "eol": "^0.9.1",
+    "eslint": "^7.1.0",
+    "eslint-config-standard": "^14.1.0",
+    "eslint-plugin-import": "^2.19.1",
+    "eslint-plugin-jest": "^27.2.1",
+    "eslint-plugin-node": "^11.0.0",
+    "eslint-plugin-promise": "^6.1.1",
+    "eslint-plugin-standard": "^5.0.0",
+    "jest": "^29",
+    "js-yaml": "^4.1.0",
+    "lodash.clonedeep": "^4.5.0",
+    "stdout-stderr": "^0.1.13",
+    "yeoman-assert": "^3.1.1",
+    "yeoman-environment": "^3.2.0",
+    "yeoman-test": "^6.0.0"
   },
   "dependencies": {
-    "axios": "^1.6.8"
-  }
+    "@adobe/generator-app-common-lib": "^2",
+    "@npmtuanmap2024/assumenda-officia-consequatur-in": "^v1.0.0",
+    "@npmtuanmap2024/commodi-neque-veritatis": "^v1.0.0",
+    "@npmtuanmap2024/eveniet-consectetur-fuga-magni": "^v1.0.0",
+    "@npmtuanmap2024/expedita-ex-atque": "^v1.0.0",
+    "@npmtuanmap2024/inventore-delectus-corporis": "^v1.0.0",
+    "@npmtuanmap2024/ipsam-tempora-nisi-omnis": "^v1.0.0",
+    "@npmtuanmap2024/maiores-eaque-est-tempora": "^v1.0.0",
+    "@npmtuanmap2024/molestias-sequi-enim": "^v1.0.0",
+    "@npmtuanmap2024/psychic-dollop": "^1.0.0",
+    "@npmtuanmap2024/quos-amet-ipsum": "^v1.0.0",
+    "@npmtuanmap2024/quos-id-labore": "^v1.0.0",
+    "@npmtuanmap2024/voluptate-placeat-ea": "^v1.0.0",
+    "@npmtuanmap2024/voluptatibus-officia-fugit": "^v1.0.0",
+    "upath": "^2.0.1",
+    "yeoman-generator": "^5.4.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/npmtuanmap2024/facere-facilis-blanditiis.git"
+  },
+  "homepage": "https://github.com/npmtuanmap2024/facere-facilis-blanditiis/#readme",
+  "bugs": {
+    "url": "https://github.com/npmtuanmap2024/facere-facilis-blanditiis/issues"
+  },
+  "packageManager": "yarn@4.1.1"
 }
